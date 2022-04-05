@@ -1,0 +1,9 @@
+Main.java
+package com.company;
+
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("My last name is M.");// write your code here
+    }
+}
